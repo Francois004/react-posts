@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+
+
+html,body{
+  min-height: 100% !important;
+  max-width: 100%!important;
+  background-color:  #F2F2F2; 
+  margin: 0;
+  padding: 0;
+ /* overflow: hidden;*/
+}
+
+
+
+.App-link {
+  color: #61dafb;
+}
+
+
